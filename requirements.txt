@@ -1,0 +1,6 @@
+flask
+transformers
+sentencepiece
+sacremoses
+datasets
+accelerate
